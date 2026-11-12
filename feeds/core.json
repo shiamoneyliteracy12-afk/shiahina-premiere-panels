@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "zip": "",
-  "notes": "最初の版"
+  "version": "0.2.8",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.8/shiahina-core-0.2.8.zip",
+  "notes": "台本があるとき、テロップの文字を話した言葉に合わせるようにしました（語尾・言い回しは話したとおり。聞き間違いだけ台本で直します）"
 }
