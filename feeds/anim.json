@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "zip": "",
-  "notes": "最初の版"
+  "version": "0.2.4",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.4/shiahina-anim-0.2.4.zip",
+  "notes": "アニメーションの並びを「出てくる／消える／強調／画像の出方／映像の寄り」にまとめました。特典のエフェクトプリセットのボタンでも、合う効果音が一緒に入るようにしました"
 }
