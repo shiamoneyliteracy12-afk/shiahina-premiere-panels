@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.9/shiahina-core-0.2.9.zip",
-  "notes": "カットのタブの説明文を直しました"
+  "version": "0.2.10",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.10/shiahina-core-0.2.10.zip",
+  "notes": "カットのタブのチェックボタン2つを外しました（音のずれを測って直す・選んだシーケンスの中でそのままカットする、はいつも行います）"
 }
