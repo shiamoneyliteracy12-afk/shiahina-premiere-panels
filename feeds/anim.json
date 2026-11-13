@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.7/shiahina-anim-0.2.7.zip",
-  "notes": "特典のエフェクトプリセットを2026年版にしました。「ぼかす」「ブラー（光）」を足しました"
+  "version": "0.2.8",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.8/shiahina-anim-0.2.8.zip",
+  "notes": "見本を左、選ぶボタンを右に並べて、「付ける」ボタンをその下にしました。「出てくる」の中から、出たあと消えるものを「出てくる＋消える」に分けました。位置が動くプリセットが行きすぎて戻らないように、まっすぐ動くようにしました"
 }
