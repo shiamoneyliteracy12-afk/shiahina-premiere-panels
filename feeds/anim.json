@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.5/shiahina-anim-0.2.5.zip",
-  "notes": "特典の「ブラー+チカチカ」に付けていた、効果音ラボで見つからない音（グリッチ）を外しました。この2つは音なしで入ります"
+  "version": "0.2.6",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.6/shiahina-anim-0.2.6.zip",
+  "notes": "パネルを開いたときに、新しい版が出ていないか自動で確かめるようにしました"
 }
