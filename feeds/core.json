@@ -1,5 +1,5 @@
 {
-  "version": "0.2.12",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.12/shiahina-core-0.2.12.zip",
-  "notes": "特典のエフェクトプリセットを2026年版にしました"
+  "version": "0.2.13",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.13/shiahina-core-0.2.13.zip",
+  "notes": "画像タブの「上から跳ねて止まる」が、行きすぎて戻らないようにまっすぐ動くようにしました"
 }
