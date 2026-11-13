@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.4/shiahina-anim-0.2.4.zip",
-  "notes": "アニメーションの並びを「出てくる／消える／強調／画像の出方／映像の寄り」にまとめました。特典のエフェクトプリセットのボタンでも、合う効果音が一緒に入るようにしました"
+  "version": "0.2.5",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/anim-v0.2.5/shiahina-anim-0.2.5.zip",
+  "notes": "特典の「ブラー+チカチカ」に付けていた、効果音ラボで見つからない音（グリッチ）を外しました。この2つは音なしで入ります"
 }
