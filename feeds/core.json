@@ -1,5 +1,5 @@
 {
-  "version": "0.2.13",
-  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.13/shiahina-core-0.2.13.zip",
-  "notes": "画像タブの「上から跳ねて止まる」が、行きすぎて戻らないようにまっすぐ動くようにしました"
+  "version": "0.2.14",
+  "zip": "https://github.com/shiamoneyliteracy12-afk/shiahina-premiere-panels/releases/download/core-v0.2.14/shiahina-core-0.2.14.zip",
+  "notes": "Codex でも動くようにしました（AIで仕上げ・テロップの区切りは、Claude Code が無ければ Codex を使います）"
 }
